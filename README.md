@@ -2,33 +2,6 @@
 
 A production-ready, extensible real-time chat application built with Node.js (Express + Socket.IO) for the backend and React for the frontend. This README includes setup, development, deployment, architecture, and API/socket conventions tailored to this tech stack.
 
----
-
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Demo](#demo)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Environment variables](#environment-variables)
-- [Running locally (development)](#running-locally-development)
-  - [Backend (server)](#backend-server)
-  - [Frontend (client)](#frontend-client)
-- [Running with Docker](#running-with-docker)
-- [Socket.IO events (server <-> client)](#socketio-events-server--client)
-- [REST API endpoints (example)](#rest-api-endpoints-example)
-- [Database schemas (examples)](#database-schemas-examples)
-- [File uploads & storage](#file-uploads--storage)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Extending the app](#extending-the-app)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Features
 
 - Real-time one-to-one and group messaging
