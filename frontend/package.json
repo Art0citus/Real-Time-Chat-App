@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^7.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "daisyui": "^5.1.25",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  }
+}
